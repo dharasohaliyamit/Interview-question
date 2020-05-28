@@ -1,6 +1,8 @@
 # CORUSCATE
-#Dhara Sohaliya
-#BCA/MCA
+Name: Dhara Sohaliya
+
+Education : BCA/MCA
+
 
 ## ReactJS Practical Task 
 
