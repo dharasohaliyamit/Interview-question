@@ -7,8 +7,10 @@ import Registration from './Registration';
 
 ReactDOM.render(
   <React.StrictMode>
-  <App />
-    {/* <Registration /> */}
+  <div>
+     <App />
+     <Registration />
+  </div>
   </React.StrictMode>,
   document.getElementById('root')
 );
